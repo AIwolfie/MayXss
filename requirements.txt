@@ -1,0 +1,10 @@
+requests
+selenium
+playwright
+beautifulsoup4
+argparse
+tqdm
+matplotlib
+transformers
+torch
+aiohttp
